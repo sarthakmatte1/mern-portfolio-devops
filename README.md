@@ -75,3 +75,5 @@
               }
 ->Build Now.
 
+#Note
+*Backend wasn't sole part of this project, but in some snapshots commands for it are visible. But it was later removed from this project. I will work on it soon. Thank you.*
